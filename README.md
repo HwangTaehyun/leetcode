@@ -5,9 +5,5 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|226|[invert binary tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./algorithms/cpp/226.invert-binary-tree.cpp)|Easy|
-
-
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [C++](./algorithms/cpp/uniqueNumberOfOccurrences/Unique-Number-of-Occurrences.cpp)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./algorithms/cpp/226.invert-binary-tree.cpp)|Easy|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C++](./algorithms/cpp/240.search-a-2d-matrix-ii.cpp)|Medium|
